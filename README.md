@@ -113,7 +113,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/5nt3ep1bbyiq9e56lv71ipnrz">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=5nt3ep1bbyiq9e56lv71ipnrz&count={count}"  />
   </a>
