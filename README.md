@@ -108,7 +108,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Specky9coder/Specky9coder/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Specky9coder/Specky9coder/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
 
